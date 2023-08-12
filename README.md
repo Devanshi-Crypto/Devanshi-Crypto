@@ -1,3 +1,5 @@
+[![Devanshi-Crypto's GitHub | Stats](https://stats.quine.sh/Devanshi-Crypto/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Devanshi-Crypto)
+
 # 👋 Hi, I’m @Devanshi-Crypto
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning ...bits of everything
